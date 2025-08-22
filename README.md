@@ -13,12 +13,13 @@
 
 <div>
 <p align="center">
-<a href="amanlakhuja.github.io/SplitTexter/"><img src="assets_for_readme/project_icons/SplitTexter_project_iconx256.png" alt="Aboutme" width="120px" align="center" padding="260px"/></a>    
-<a href="[https://examle.com](https://chromewebstore.google.com/detail/hover-debug-overlay/dnhkakioabglpfiidamfmijkdncgmajo)"><img src="assets_for_readme/project_icons/Hover_Debug_Overlay_Extension_iconx256.png" alt="Aboutme" width="120px" align="center"/></a>  
-<a href="[https://exale.com](https://github.com/AmanLakhuja/QR-Image-to-SVG/releases/tag/V1.0.0)"><img src="assets_for_readme/project_icons/QR_Image_to_SVG_project_iconx256.png" alt="Aboutme" width="120px" align="center"/></a>
+<a href="https://amanlakhuja.github.io/SplitTexter/"><img src="assets_for_readme/project_icons/SplitTexter_project_iconx256.png" alt="Aboutme" width="120px" align="center" /></a>    
+<a href="https://chromewebstore.google.com/detail/hover-debug-overlay/dnhkakioabglpfiidamfmijkdncgmajo"><img src="assets_for_readme/project_icons/Hover_Debug_Overlay_Extension_iconx256.png" alt="Aboutme" width="120px" align="center"/></a>  
+<a href="https://github.com/AmanLakhuja/QR-Image-to-SVG/releases/tag/V1.0.0"><img src="assets_for_readme/project_icons/QR_Image_to_SVG_project_iconx256.png" alt="Aboutme" width="120px" align="center"/></a>
 </p>
 
 </div>
+
 
 ### Project Repositories
 
